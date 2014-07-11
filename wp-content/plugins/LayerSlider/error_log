@@ -1,0 +1,183 @@
+[24-Dec-2013 17:04:18] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[24-Dec-2013 17:08:09] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[24-Dec-2013 17:12:54] PHP Fatal error:  Call to a member function get_results() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/list.php on line 10
+[24-Dec-2013 17:17:55] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[24-Dec-2013 17:20:03] PHP Fatal error:  Call to undefined function _e() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/editor.php on line 31
+[24-Dec-2013 17:28:50] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[24-Dec-2013 17:34:13] PHP Fatal error:  Call to undefined function plugins_url() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/layerslider.php on line 23
+[24-Dec-2013 17:36:20] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/style_editor.php on line 4
+[24-Dec-2013 22:37:25] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[24-Dec-2013 22:40:47] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[25-Dec-2013 04:29:02] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[25-Dec-2013 04:32:20] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[25-Dec-2013 07:45:59] PHP Fatal error:  Call to a member function get_results() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/list.php on line 10
+[25-Dec-2013 07:46:49] PHP Fatal error:  Call to undefined function plugins_url() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/layerslider.php on line 23
+[25-Dec-2013 07:47:08] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/style_editor.php on line 4
+[25-Dec-2013 07:47:19] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[25-Dec-2013 07:49:30] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[25-Dec-2013 08:23:46] PHP Fatal error:  Call to undefined function plugins_url() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/layerslider.php on line 23
+[25-Dec-2013 08:24:11] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[25-Dec-2013 08:38:32] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[25-Dec-2013 10:36:06] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[25-Dec-2013 13:49:56] PHP Fatal error:  Call to a member function get_results() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/list.php on line 10
+[25-Dec-2013 13:50:32] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/style_editor.php on line 4
+[25-Dec-2013 13:51:58] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[25-Dec-2013 14:14:57] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/style_editor.php on line 4
+[25-Dec-2013 16:34:49] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[25-Dec-2013 16:37:18] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[25-Dec-2013 16:57:36] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[25-Dec-2013 17:13:35] PHP Fatal error:  Call to undefined function plugins_url() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/layerslider.php on line 23
+[25-Dec-2013 20:06:29] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[25-Dec-2013 20:06:42] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[25-Dec-2013 20:07:05] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[25-Dec-2013 20:07:28] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[26-Dec-2013 01:53:02] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[26-Dec-2013 01:53:22] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[26-Dec-2013 01:57:52] PHP Fatal error:  Call to a member function get_results() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/list.php on line 10
+[26-Dec-2013 07:40:59] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[26-Dec-2013 07:41:00] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[26-Dec-2013 07:41:11] PHP Fatal error:  Call to a member function get_results() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/list.php on line 10
+[26-Dec-2013 13:20:44] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[26-Dec-2013 13:20:55] PHP Fatal error:  Call to a member function get_results() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/list.php on line 10
+[26-Dec-2013 13:42:51] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[26-Dec-2013 19:21:30] PHP Fatal error:  Call to a member function get_results() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/list.php on line 10
+[26-Dec-2013 19:38:16] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[26-Dec-2013 19:55:47] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[27-Dec-2013 01:29:27] PHP Fatal error:  Call to a member function get_results() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/list.php on line 10
+[27-Dec-2013 13:13:26] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[27-Dec-2013 13:13:56] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[27-Dec-2013 13:39:47] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[27-Dec-2013 19:05:34] PHP Fatal error:  Call to undefined function plugins_url() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/layerslider.php on line 23
+[27-Dec-2013 19:29:17] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[27-Dec-2013 19:45:59] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/style_editor.php on line 4
+[27-Dec-2013 20:31:08] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[27-Dec-2013 22:58:16] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[28-Dec-2013 01:30:59] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[28-Dec-2013 01:50:37] PHP Fatal error:  Call to undefined function plugins_url() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/layerslider.php on line 23
+[28-Dec-2013 02:30:14] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/style_editor.php on line 4
+[28-Dec-2013 02:49:19] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[28-Dec-2013 05:46:18] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[28-Dec-2013 06:49:51] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[28-Dec-2013 08:31:13] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[28-Dec-2013 09:01:09] PHP Fatal error:  Call to undefined function plugins_url() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/layerslider.php on line 23
+[28-Dec-2013 09:20:50] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/style_editor.php on line 4
+[28-Dec-2013 09:40:30] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[28-Dec-2013 11:26:46] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[28-Dec-2013 12:42:11] PHP Fatal error:  Call to a member function get_results() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/list.php on line 10
+[28-Dec-2013 14:18:17] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[28-Dec-2013 14:37:40] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[28-Dec-2013 15:00:57] PHP Fatal error:  Call to undefined function plugins_url() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/layerslider.php on line 23
+[28-Dec-2013 15:58:24] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[28-Dec-2013 17:41:35] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/style_editor.php on line 4
+[28-Dec-2013 18:17:33] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[28-Dec-2013 19:29:29] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[28-Dec-2013 20:27:42] PHP Fatal error:  Call to a member function get_results() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/list.php on line 10
+[28-Dec-2013 20:59:50] PHP Fatal error:  Call to undefined function plugins_url() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/layerslider.php on line 23
+[28-Dec-2013 23:27:44] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[29-Dec-2013 01:20:12] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[29-Dec-2013 02:37:11] PHP Fatal error:  Call to a member function get_results() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/list.php on line 10
+[29-Dec-2013 03:11:05] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[29-Dec-2013 05:27:23] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[29-Dec-2013 07:25:56] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[29-Dec-2013 08:36:11] PHP Fatal error:  Call to a member function get_results() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/list.php on line 10
+[29-Dec-2013 12:08:12] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[29-Dec-2013 13:20:23] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[29-Dec-2013 13:20:38] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[29-Dec-2013 18:00:00] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[29-Dec-2013 18:25:12] PHP Fatal error:  Call to undefined function plugins_url() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/layerslider.php on line 23
+[29-Dec-2013 20:48:09] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[29-Dec-2013 23:52:32] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/style_editor.php on line 4
+[30-Dec-2013 02:29:07] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[30-Dec-2013 02:29:58] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[30-Dec-2013 02:46:58] PHP Fatal error:  Call to undefined function plugins_url() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/layerslider.php on line 23
+[30-Dec-2013 05:28:05] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/style_editor.php on line 4
+[30-Dec-2013 06:03:01] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[30-Dec-2013 06:22:26] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[30-Dec-2013 08:32:37] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[30-Dec-2013 08:33:10] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[30-Dec-2013 08:57:50] PHP Fatal error:  Call to undefined function plugins_url() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/layerslider.php on line 23
+[30-Dec-2013 11:42:16] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/style_editor.php on line 4
+[30-Dec-2013 12:11:52] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[30-Dec-2013 13:08:57] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[30-Dec-2013 14:36:16] PHP Fatal error:  Call to undefined function plugins_url() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/layerslider.php on line 23
+[30-Dec-2013 14:36:54] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[30-Dec-2013 15:09:01] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[30-Dec-2013 15:42:39] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[30-Dec-2013 17:28:42] PHP Fatal error:  Call to a member function get_results() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/list.php on line 10
+[30-Dec-2013 17:39:38] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/style_editor.php on line 4
+[30-Dec-2013 18:44:25] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[30-Dec-2013 19:28:37] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[30-Dec-2013 23:30:22] PHP Fatal error:  Call to a member function get_results() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/list.php on line 10
+[30-Dec-2013 23:30:38] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/style_editor.php on line 4
+[30-Dec-2013 23:49:18] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[31-Dec-2013 01:28:51] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[31-Dec-2013 03:23:51] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[31-Dec-2013 05:40:30] PHP Fatal error:  Call to a member function get_results() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/list.php on line 10
+[31-Dec-2013 06:00:39] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[31-Dec-2013 07:31:51] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[31-Dec-2013 11:04:32] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[31-Dec-2013 11:36:52] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[31-Dec-2013 11:43:29] PHP Fatal error:  Call to a member function get_results() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/list.php on line 10
+[31-Dec-2013 13:25:32] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[31-Dec-2013 16:55:43] PHP Fatal error:  Call to undefined function plugins_url() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/layerslider.php on line 23
+[31-Dec-2013 17:38:03] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[31-Dec-2013 17:38:20] PHP Fatal error:  Call to a member function get_results() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/list.php on line 10
+[31-Dec-2013 18:08:34] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[31-Dec-2013 23:48:56] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[31-Dec-2013 23:49:49] PHP Fatal error:  Call to undefined function plugins_url() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/layerslider.php on line 23
+[01-Jan-2014 00:21:07] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[01-Jan-2014 05:36:40] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[01-Jan-2014 05:36:41] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[01-Jan-2014 05:36:51] PHP Fatal error:  Call to undefined function plugins_url() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/layerslider.php on line 23
+[01-Jan-2014 10:32:00] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/style_editor.php on line 4
+[01-Jan-2014 11:42:26] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[01-Jan-2014 11:43:18] PHP Fatal error:  Call to undefined function plugins_url() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/layerslider.php on line 23
+[01-Jan-2014 12:06:38] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[01-Jan-2014 17:55:56] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/style_editor.php on line 4
+[01-Jan-2014 18:31:03] PHP Fatal error:  Call to undefined function plugins_url() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/layerslider.php on line 23
+[01-Jan-2014 22:17:09] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[01-Jan-2014 22:40:20] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[01-Jan-2014 23:40:01] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/style_editor.php on line 4
+[02-Jan-2014 05:43:51] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/style_editor.php on line 4
+[02-Jan-2014 06:03:26] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[02-Jan-2014 06:52:30] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[02-Jan-2014 12:09:17] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[02-Jan-2014 15:02:13] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[02-Jan-2014 18:16:06] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[02-Jan-2014 20:40:28] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[02-Jan-2014 20:40:28] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[03-Mar-2014 14:13:17] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[03-Mar-2014 14:34:55] PHP Fatal error:  Call to a member function get_results() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/list.php on line 10
+[03-Mar-2014 15:06:10] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[03-Mar-2014 15:33:03] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[03-Mar-2014 16:17:50] PHP Fatal error:  Call to undefined function _e() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/editor.php on line 31
+[03-Mar-2014 17:17:31] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[03-Mar-2014 18:33:45] PHP Fatal error:  Call to undefined function plugins_url() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/layerslider.php on line 23
+[03-Mar-2014 20:13:17] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[03-Mar-2014 21:00:37] PHP Fatal error:  Call to a member function get_results() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/list.php on line 10
+[03-Mar-2014 21:28:29] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/style_editor.php on line 4
+[04-Mar-2014 00:04:13] PHP Fatal error:  Call to a member function get_results() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/list.php on line 10
+[04-Mar-2014 01:17:47] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[04-Mar-2014 03:37:57] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[04-Mar-2014 04:07:59] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[04-Mar-2014 04:55:07] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[04-Mar-2014 10:11:19] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[04-Mar-2014 10:35:10] PHP Fatal error:  Call to a member function get_results() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/list.php on line 10
+[04-Mar-2014 11:18:15] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[04-Mar-2014 12:54:01] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[04-Mar-2014 13:25:55] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/builder.php on line 4
+[04-Mar-2014 13:54:48] PHP Fatal error:  Call to undefined function plugins_url() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/layerslider.php on line 23
+[04-Mar-2014 14:22:25] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/style_editor.php on line 4
+[04-Mar-2014 20:20:01] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/style_editor.php on line 4
+[07-Apr-2014 10:15:36] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[07-Apr-2014 16:05:35] PHP Fatal error:  Call to a member function get_results() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/list.php on line 10
+[08-Apr-2014 10:59:18] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[08-Apr-2014 23:51:53] PHP Fatal error:  Call to a member function get_results() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/list.php on line 10
+[09-Apr-2014 11:25:34] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[09-Apr-2014 14:03:16] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/medcompe/public_html/wp-content/plugins/LayerSlider/edit.php on line 14
+[09-Apr-2014 17:15:30] PHP Fatal error:  Call to undefined function _e() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/editor.php on line 31
+[09-Apr-2014 18:06:00] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[10-Apr-2014 03:27:52] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[10-Apr-2014 07:15:52] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/init.php on line 7
+[10-Jun-2014 04:19:00 Asia/Calcutta] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
+[11-Jun-2014 04:35:22 Asia/Calcutta] PHP Fatal error:  Call to undefined function get_option() in /home/medcompe/public_html/wp-content/plugins/LayerSlider/add.php on line 5
