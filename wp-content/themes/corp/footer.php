@@ -40,7 +40,7 @@
             ?>
         </div>
         <div class="socials">
-<a href="http://medcompersonnel.co.uk/agency-terms-conditions/" style="color:#fff;">Agency Terms & Conditions</a>
+<!--<a href="http://anilahealthcare.co.uk/agency-terms-conditions/" style="color:#fff;">Agency Terms & Conditions</a>-->
             <!--<ul class="socials_list">
                 <?php echo socsm("social_facebook", $class = "ico_social-facebook", $title = "Facebook"); ?>
                 <?php echo socsm("social_vimeo", $class = "ico_social-vimeo", $title = "Vimeo"); ?>

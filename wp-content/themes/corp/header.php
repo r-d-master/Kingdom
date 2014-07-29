@@ -40,7 +40,7 @@
 
     <div class="header_wrapper container">
         <a href="<?php echo get_site_url(); ?>" class="logo"><img src="<?php the_theme_option("logo"); ?>" alt=""  width="<?php the_theme_option("header_logo_standart_width"); ?>" height="<?php the_theme_option("header_logo_standart_height"); ?>" class="logo_def"><img src="<?php the_theme_option("logo_retina"); ?>" alt="" width="<?php the_theme_option("header_logo_standart_width"); ?>" height="<?php the_theme_option("header_logo_standart_height"); ?>" class="logo_retina"></a>
-        <nav>
+        <nav style="padding-top:4%;">
             <?php wp_nav_menu(array('theme_location' => 'main_menu', 'menu_class' => 'menu', 'depth' => '3')); ?>
             <div class="clear"></div>
         </nav>
