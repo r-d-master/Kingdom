@@ -32,7 +32,7 @@
         	
             <div class="logo">
                 <?php if( vp_option('logo') != ''){ ?>
-                <a href="index.html"><img src="<?php echo vp_option('logo'); ?>" alt="logo" /></a>
+                <a href="index.html"><img src="<?php echo vp_option('logo'); ?>" alt="logo" style="width:30%;"/></a>
 				<?php } ?>
             </div>
             
