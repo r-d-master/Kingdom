@@ -86,7 +86,7 @@ a:hover
 	font-size: 12px;
 	line-height: 35px;
 	letter-spacing: 0.30em;
-	color: #bcbfc3;
+	color: #3F1C99;
 }
 .bg_segment
 {
@@ -106,7 +106,7 @@ a:hover
 {
 	width: 100%;
 
-	color: #fff;
+	color: #3F1C99;
 	background-color: transparent;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -193,7 +193,7 @@ a:hover
 	padding: 20px 10px 15px;
 	font: 11px/1.27em "Helvetica Neue", Helvetica, Arial, sans-serif;
 	letter-spacing: 0.25em;
-	color: #fff;
+	color: #3F1C99;
 	z-index: 2;
 }
 #main_menu nav ul#nav_menu li.blob
