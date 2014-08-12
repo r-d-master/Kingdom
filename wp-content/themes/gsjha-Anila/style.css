@@ -261,7 +261,7 @@ html[xmlns] .slides {display: block;}
 #homepage-features,
 #homepage-portfolio { margin-top: 30px; }
 #homepage-content p:last-child { margin: 0; }
-#homepage-content { padding: 30px; font-size: 1.3em; text-align: center; color: #000; }
+/*#homepage-content { padding: 30px; font-size: 1.3em; text-align: center; color: #000; }*/
 /* Feature Entries
 ================================================== */
 .feature-thumbnail { margin: 0 0 20px; }
