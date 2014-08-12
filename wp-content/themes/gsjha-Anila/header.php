@@ -26,7 +26,10 @@
 <body <?php body_class(); ?>>
 
 	<div id="wrap" class="clr container">
-		<div id="header-wrap" class="clr">
+		<div id="header-wrap" class="clr" style="
+    background: url(http://anilahealthcare.co.uk/wp-content/uploads/2014/08/header1.jpg);
+    margin-right: 3%;
+">
 			<header id="header" class="site-header clr" role="banner">
 				<?php
 				// Outputs the site logo
