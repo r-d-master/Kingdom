@@ -56,7 +56,7 @@ if ( ! function_exists( 'wpex_post_entry_classes' ) ) {
 
 		// Features
 		if ( $post_type == 'features' ) {
-			$classes[] = 'span_1_of_3 col clr';
+			$classes[] = 'span_1_of_2 col clr';
 		}
 
 		// All other posts
