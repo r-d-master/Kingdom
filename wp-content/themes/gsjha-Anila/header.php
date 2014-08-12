@@ -34,7 +34,7 @@
 				wpex_logo(); ?>
 				<aside id="header-search" class="clr">
 					<!--<?php get_search_form(); ?>-->
-					
+					<?php if (function_exists('contact_detail')) { contact_detail('phone'); } ?>
 				</aside><!-- #header-search -->
 			</header><!-- #header -->
 		</div><!-- #header-wrap -->
