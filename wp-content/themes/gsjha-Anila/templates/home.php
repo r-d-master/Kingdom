@@ -70,7 +70,7 @@ get_header(); ?>
 							<?php foreach( $wpex_query->posts as $post ) : setup_postdata( $post ); ?>
 								<?php $wpex_count++; ?>
 									<?php get_template_part( 'content-features', get_post_format() ); ?>
-								<?php if ( $wpex_count == '3' ) { ?>
+								<?php if ( $wpex_count == '2' ) { ?>
 									<?php $wpex_count=0; ?>
 								<?php } ?>
 							<?php endforeach; ?>
