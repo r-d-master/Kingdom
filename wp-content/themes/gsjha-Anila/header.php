@@ -34,9 +34,9 @@
 				wpex_logo(); ?>
 				<aside id="header-search" class="clr">
 					<!--<?php get_search_form(); ?>-->
-					<span class="fa fa-phone"><?php if (function_exists('contact_detail')) { contact_detail('phone'); } ?></span><br/>
-					<span class="fa fa-email"><?php if (function_exists('contact_detail')) { contact_detail('email'); } ?></span><br/>
-					<span class="fa fa-address"><?php if (function_exists('contact_detail')) { contact_detail('address'); } ?></span>
+					<span class="fa fa-phone">&nbsp;&nbsp; <?php if (function_exists('contact_detail')) { contact_detail('phone'); } ?></span><br/>
+					<span class="fa fa-envelope">&nbsp;&nbsp; <?php if (function_exists('contact_detail')) { contact_detail('email'); } ?></span><br/>
+					<span class="fa fa-home">&nbsp;&nbsp; <?php if (function_exists('contact_detail')) { contact_detail('address'); } ?></span>
 				</aside><!-- #header-search -->
 			</header><!-- #header -->
 		</div><!-- #header-wrap -->

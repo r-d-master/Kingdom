@@ -113,7 +113,7 @@ a { outline: 0 }
 #logo img { display: block; max-width: 33%; }
 #logo a { color: #000; font-size: 32px; text-decoration: none; }
 /*search*/
-#header-search { position: absolute; top: 50%; margin-top: -20px; right: 0; height: 40px; width: 240px; }
+#header-search { position: absolute; top: 31%; margin-top: -20px; right: 0; height: 40px; width: 240px; font-size: 19px; color: #280E47; line-height: 2em; }
 #header-search input { height: 40px; line-height: 40px; width: 100%; font-size: 13px; border: none; background: #eee; }
 /* Main Navigation
 ================================================== */
