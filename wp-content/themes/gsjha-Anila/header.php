@@ -33,7 +33,8 @@
 				// See functions/logo.php
 				wpex_logo(); ?>
 				<aside id="header-search" class="clr">
-					<?php get_search_form(); ?>
+					<!--<?php get_search_form(); ?>-->
+					
 				</aside><!-- #header-search -->
 			</header><!-- #header -->
 		</div><!-- #header-wrap -->

@@ -27,7 +27,7 @@ $wpex_feature_url = get_post_meta( get_the_ID(), 'wpex_feature_url', true );
 				<span class="feature-icon-font"><i class="fa fa-<?php echo get_post_meta( get_the_ID(), 'wpex_icon_font', true ); ?>"></i></span>
 			<?php } ?>
 			<?php if ( $wpex_feature_url ) {
-				echo '<a href="'. $wpex_feature_url .'" title="'. get_the_title() .'>'. get_the_title() .'</a>';
+				echo '<a href="'. $wpex_feature_url .'" title="'. get_the_title() .'">'. get_the_title() .'</a>';
 			} else {
 				the_title();
 			} ?>

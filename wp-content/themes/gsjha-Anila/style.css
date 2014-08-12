@@ -142,7 +142,7 @@ a { outline: 0 }
 #site-navigation .dropdown-menu > li > a:hover,
 #site-navigation .dropdown-menu > li.sfHover > a,
 #site-navigation .dropdown-menu > .current-menu-item > a,
-#site-navigation .dropdown-menu > .current-menu-item > a:hover { background: #280E47; color: #fff; }
+#site-navigation .dropdown-menu > .current-menu-item > a:hover { background: #088562; color: #fff; }
 /*drop-down styles*/
 #site-navigation .dropdown-menu ul { background: #000; background: rgba(0,0,0,0.90); font-size: 12px; }
 #site-navigation .dropdown-menu ul a { display: block; height: auto; line-height: 1.7em; padding: 10px 20px; margin: 0px; border: 0px; text-transform: none; }
