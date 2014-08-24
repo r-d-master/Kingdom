@@ -25,13 +25,13 @@
 </head>
 
 <body <?php body_class(); ?>>
+<a href="http://anilahealthcare.co.uk/wp-content/uploads/2013/04/Full-List-of-Training-Courses.pdf" id="courses"></a>
 
 	<div id="wrap" class="clr container">
 		<div id="header-wrap" class="clr" style="
     background: url(http://anilahealthcare.co.uk/wp-content/uploads/2014/08/header1.jpg);
     margin-right: 3%;
 ">
-<a href="http://anilahealthcare.co.uk/wp-content/uploads/2013/04/Full-List-of-Training-Courses.pdf" id="courses"></a>
 			<header id="header" class="site-header clr" role="banner">
 				<?php
 				// Outputs the site logo
