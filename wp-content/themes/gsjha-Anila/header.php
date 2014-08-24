@@ -12,6 +12,7 @@
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width">
+	<meta name="author" content="webvizion.co.uk">
 	<title><?php wp_title( '|', true, 'right' ); ?><?php bloginfo('name'); ?></title>
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 	<?php if ( get_theme_mod('wpex_custom_favicon') ) { ?>
@@ -30,6 +31,7 @@
     background: url(http://anilahealthcare.co.uk/wp-content/uploads/2014/08/header1.jpg);
     margin-right: 3%;
 ">
+<a href="http://anilahealthcare.co.uk/wp-content/uploads/2013/04/Full-List-of-Training-Courses.pdf" id="courses"></a>
 			<header id="header" class="site-header clr" role="banner">
 				<?php
 				// Outputs the site logo
