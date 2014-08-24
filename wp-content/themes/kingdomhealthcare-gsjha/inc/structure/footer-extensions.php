@@ -65,7 +65,8 @@ add_action( 'interface_footer', 'interface_footer_info', 30 );
  * function to show the footer info, copyright information
  */
 function interface_footer_info() {         
-   $output = '<div class="copyright">'.__( 'Copyright &copy;', 'interface' ).' '.'[the-year] [site-link]'.' '.__( 'Theme by:', 'interface' ).' '.'[th-link]'.' '.__( 'Powered by:', 'interface' ).' '.'[wp-link] '.'</div><!-- .copyright -->';
+   //$output = '<div class="copyright">'.__( 'Copyright &copy;', 'interface' ).' '.'[the-year] [site-link]'.' '.__( 'Theme by:', 'interface' ).' '.'[th-link]'.' '.__( 'Powered by:', 'interface' ).' '.'[wp-link] '.'</div><!-- .copyright -->';
+   $output = '<div class="copyright">'.__( 'Copyright &copy;', 'interface' ).' '.'[the-year] [site-link]'.' '.'</div><!-- .copyright -->';
    echo do_shortcode( $output );
 }
 /****************************************************************************************/
