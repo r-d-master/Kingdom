@@ -628,7 +628,7 @@ a.more-link:hover {
 /* Logo, Title and Description */
 #site-logo {
 	float: left;
-	margin-top: 32px;
+	/*margin-top: 32px;*/
 }
 #site-title {
 	font-size: 28px;
@@ -642,8 +642,9 @@ a.more-link:hover {
 }
 #site-title a img {
 	vertical-align: inherit;
-	max-width: 978px;
+	/*max-width: 978px;*/
 	display: block;
+	width:50%;
 }
 #site-title a span,
 #site-title a:hover,
