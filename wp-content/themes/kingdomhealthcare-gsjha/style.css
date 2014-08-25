@@ -976,6 +976,7 @@ a.more-link:hover {
 	display: none;
 }
 .featured-text {
+	display:none;
 	position: absolute;
 	bottom: 100px;
 	left: 0;
