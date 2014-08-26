@@ -315,7 +315,7 @@ function interface_socialnetworks( $set_flags ) {
 				{
 					$interface_socialnetworks .='<div class="social-profiles clearfix">
 					<ul>';
-					$interface_socialnetworks .= '<li><a href="http://kingdomhealthcare.co.uk/agency-terms-conditions/">Agency Terms & Conditions</a></li>'.$a;
+					$interface_socialnetworks .= $a;
 						
 		
 					$interface_socialnetworks .='
