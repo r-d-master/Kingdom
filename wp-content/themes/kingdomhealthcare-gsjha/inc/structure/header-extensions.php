@@ -315,7 +315,7 @@ function interface_socialnetworks( $set_flags ) {
 				{
 					$interface_socialnetworks .='<div class="social-profiles clearfix">
 					<ul>';
-					$interface_socialnetworks .= $a;
+					$interface_socialnetworks .= '<li><a href="http://kingdomhealthcare.co.uk/agency-terms-conditions/">Agency Terms & Conditions</a></li>'.$a;
 						
 		
 					$interface_socialnetworks .='
@@ -505,8 +505,8 @@ function interface_featured_sliders() {
 				$interface_featured_sliders .= '
 				<div class="'.$classes.'">';
 						if( has_post_thumbnail() ) {
-	$interface_featured_sliders .= '<figure><a href="' . get_permalink() . '" title="'.the_title('','',false).'">';
-	$interface_featured_sliders .= get_the_post_thumbnail( $post->ID, $slider_size, array( 'title' => esc_attr( $title_attribute ), 'alt' => esc_attr( $title_attribute ), 'class'	=> 'pngfix' ) ).'</a></figure>';
+	$interface_featured_sliders .= '<figure>';
+	$interface_featured_sliders .= get_the_post_thumbnail( $post->ID, $slider_size, array( 'title' => esc_attr( $title_attribute ), 'alt' => esc_attr( $title_attribute ), 'class'	=> 'pngfix' ) ).'</figure>';
 						}
 						if( $title_attribute != '' || $excerpt !='' ) {
 						$interface_featured_sliders .= '
