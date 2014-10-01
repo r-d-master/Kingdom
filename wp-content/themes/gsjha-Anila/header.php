@@ -12,7 +12,7 @@
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width">
-	<meta name="author" content="webvizion.co.uk">
+	<meta name="author" content="gsjha.com">
 	<title><?php wp_title( '|', true, 'right' ); ?><?php bloginfo('name'); ?></title>
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 	<?php if ( get_theme_mod('wpex_custom_favicon') ) { ?>
@@ -25,7 +25,7 @@
 </head>
 
 <body <?php body_class(); ?>>
-<a href="http://anilahealthcare.co.uk/wp-content/uploads/2014/08/anila-application-form.doc" id="courses"></a>
+<a href="http://anilahealthcare.co.uk/wp-content/uploads/2014/10/full-courses.docx" id="courses"></a>
 
 	<div id="wrap" class="clr container">
 		<div id="header-wrap" class="clr" style="
