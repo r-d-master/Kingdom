@@ -25,11 +25,11 @@
 </head>
 
 <body <?php body_class(); ?>>
-<a href="http://anilahealthcare.co.uk/wp-content/uploads/2014/10/full-courses.docx" id="courses"></a>
+<a href="http://acehealthcaretraining.co.uk/wp-content/uploads/2014/10/full-courses.docx" id="courses"></a>
 
 	<div id="wrap" class="clr container">
 		<div id="header-wrap" class="clr" style="
-    background: url(http://anilahealthcare.co.uk/wp-content/uploads/2014/08/header1.jpg);
+    background: url(http://acehealthcaretraining.co.uk/wp-content/uploads/2014/11/acehealthcare-training-header.jpg);
     margin-right: 3%;
 ">
 			<header id="header" class="site-header clr" role="banner">
