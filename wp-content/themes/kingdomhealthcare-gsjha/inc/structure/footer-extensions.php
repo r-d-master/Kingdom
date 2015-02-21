@@ -66,7 +66,7 @@ add_action( 'interface_footer', 'interface_footer_info', 30 );
  */
 function interface_footer_info() {         
    //$output = '<div class="copyright">'.__( 'Copyright &copy;', 'interface' ).' '.'[the-year] [site-link]'.' '.__( 'Theme by:', 'interface' ).' '.'[th-link]'.' '.__( 'Powered by:', 'interface' ).' '.'[wp-link] '.'</div><!-- .copyright -->';
-   $output = '<div class="copyright">'.__( 'Copyright &copy;', 'interface' ).' '.'[the-year] [site-link]'.' '.'<br/><a href="agency-terms-conditions">Agency Terms & Conditions</a></div><br/>Website by <a href="www.webvizion.co.uk" target="_blank">www.webvizion.co.uk</a><!-- .copyright -->';
+   $output = '<div class="copyright">'.__( 'Copyright &copy;', 'interface' ).' '.'[the-year] [site-link]'.' '.'<br/><a href="agency-terms-conditions">Agency Terms & Conditions</a><br/>Website by <a href="www.webvizion.co.uk" target="_blank">www.webvizion.co.uk</a></div><!-- .copyright -->';
    echo do_shortcode( $output );
 }
 /****************************************************************************************/
