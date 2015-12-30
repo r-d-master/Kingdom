@@ -25,7 +25,7 @@ define('DB_NAME', 'tcss');
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'gsjha@978290499');
+
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
